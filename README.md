@@ -65,7 +65,11 @@ python epipolar_visualization.py
 
 ## Video Preview
 
-![Epipolar Visualization Preview](https://github.com/lazycodebaker/Epipolar-Geometry-Visualization/blob/main/epipolar_visualisation-1.mp4)
+<video width="640" height="360" controls>
+  <source src="https://github.com/lazycodebaker/Epipolar-Geometry-Visualization/blob/main/epipolar_visualisation-1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
