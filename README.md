@@ -37,7 +37,7 @@ pip install opencv-python-headless numpy pygame
 
 ```bash
 git clone https://github.com/lazycodebaker/Epipolar-Geometry-Visualization.git
-cd https://github.com/lazycodebaker/Epipolar-Geometry-Visualization.git
+cd Epipolar-Geometry-Visualization
 ```
 
 ### 2. Prepare Your Environment
