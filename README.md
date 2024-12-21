@@ -123,7 +123,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## Author
 
-Developed by [Your Name](https://github.com/your-github-profile).
+Developed by [Anshuman Tiwari](https://github.com/lazycodebaker).
 
 ---
 
