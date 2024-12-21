@@ -65,7 +65,7 @@ python epipolar_visualization.py
 
 ## Video Preview
 
-![Epipolar Visualization Preview](epipolar_visualisation-1.mp4)
+![Epipolar Visualization Preview](https://github.com/lazycodebaker/Epipolar-Geometry-Visualization/blob/main/epipolar_visualisation-1.mp4)
 
 ---
 
