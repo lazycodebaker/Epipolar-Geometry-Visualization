@@ -63,6 +63,12 @@ python epipolar_visualization.py
 
 ---
 
+## Video Preview
+
+![Epipolar Visualization Preview](epipolar_visualisation-1.mp4)
+
+---
+
 ## Code Explanation
 
 ### Key Components
@@ -106,12 +112,6 @@ python epipolar_visualization.py
 - Dynamically compute the fundamental matrix using calibration data.
 - Add support for other feature detection methods (e.g., SIFT, SURF).
 - Enhance visualization by overlaying lines on actual images instead of a blank canvas.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
